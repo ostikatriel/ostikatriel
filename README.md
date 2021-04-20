@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OstiKatriel
+- 👋 Hi, I’m @ostikatriel
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning Spring and Angular.
 - 💞️ I’m looking to collaborate on projects.
