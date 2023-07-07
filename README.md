@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning Spring and Angular.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me at linkedin: https://www.linkedin.com/in/osti-katriel-00b393208/
+- 📫 How to reach me at linkedin: [https://www.linkedin.com/in/osti-katriel-00b393208/](https://www.linkedin.com/in/osti-katriel-barrozo-figueroa-00b393208/)
 
 <!---
 OstiKatriel/OstiKatriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
